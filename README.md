@@ -35,7 +35,6 @@ The computational script utilizes the following default parameters, modeling a s
 
 ## Visual Outputs
 
-*(Note: Run the script, save the two output figures as `steering.png` and `directivity.png`, upload them to this repository, and remove the HTML comment tags `<!-- -->` below to display them).*
 
 ### 1. Proof of Beam Steering ($N = 8$)
 The script applies the phase shift equations to steer a fixed 8-element array to $-45^\circ$, $0^\circ$ (broadside), and $50^\circ$, generating comparative polar plots.
