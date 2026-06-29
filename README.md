@@ -39,12 +39,12 @@ The computational script utilizes the following default parameters, modeling a s
 ### 1. Proof of Beam Steering ($N = 8$)
 The script applies the phase shift equations to steer a fixed 8-element array to $-45^\circ$, $0^\circ$ (broadside), and $50^\circ$, generating comparative polar plots.
 
-<!-- ![Beam Steering Patterns](steering.png) -->
+[Beam Steering Patterns](steering.png)
 
 ### 2. Effect of Element Count on Directivity
 The script fixes the steering angle at $30^\circ$ and compares the radiation pattern of a 4-element array against a 16-element array, visually proving the relationship between element count and beamwidth narrowing.
 
-<!-- ![Directivity Comparison](directivity.png) -->
+[Directivity Comparison](directivity.png)
 
 ## Usage
 1. Clone this repository to your local machine.
